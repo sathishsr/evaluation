@@ -25,6 +25,24 @@ router.post("/create", async (req, res) => {
   res.end();
 });
 
+router.get("/user", async (req, res) => {
+  let searchOptions = {};
+  if (req.query.name != null && req.query.name != "") {
+    searchOptions.name = new RegExp(req.query.name, "i");
+  }
+  try {
+    const allAuthors = await User.find({}, function(err, result) {
+      if (err) throw err;
+      console.log("result", result);
+      res.send(result);
+    });
+  } catch (er) {
+    console.log(er);
+    //res.redirect("/");
+  }
+  res.end();
+});
+
 module.exports = router;
 
 // client side sample
