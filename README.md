@@ -14,4 +14,8 @@ The Santander team sent an email to our offshore team requesting a file. I notic
 For the last month, I have took leave only for half-a-day on 28th May with the prior notice. Also, there were no meeting scheduled during this time. 
 I do update the OOO status on my teams as a standard practice to get the clients/team be aware 
 
+I have been extending my work hours to fulfill client requests and ensure the success of the project I am involved in. I take great pride in my responsibility towards our project goals and the team's success.
+
+I believe that effective collaboration and mutual support are crucial for our team's success. I would appreciate any guidance or support you can offer to improve this situation. I am committed to finding a solution that ensures a positive and productive work environment for everyone involved.
+
 
