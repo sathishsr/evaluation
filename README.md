@@ -7,4 +7,7 @@ I have not been working on the Amex testing project since last November. Eswar i
 
 The Santander team sent an email to our offshore team requesting a file. I noticed that Mani replied in a short span of time, stating he would provide the requested information without checking with me, even though I was the one who worked on the project.
 
+For the last month, I have took leave only for half-a-day on 28th May with the prior notice. Also, there were no meeting scheduled during this time. 
+I do update the OOO status on my teams as a standard practice to get the clients/team be aware 
+
 
