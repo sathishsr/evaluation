@@ -1,7 +1,1 @@
-
-[RENTAL_AGREEMENT_NDM2_E-011.pdf](https://github.com/user-attachments/files/18280807/RENTAL_AGREEMENT_NDM2_E-011.pdf)
-
-[Saranya.pdf](https://github.com/user-attachments/files/18282347/Saranya.pdf)
-
-
-[Saranya_Recipet-compressed.pdf](https://github.com/user-attachments/files/18282379/Saranya_Recipet-compressed.pdf)
+[Saranya_Rent_Recipet.pdf](https://github.com/user-attachments/files/18520632/Saranya_Rent_Recipet.pdf)
